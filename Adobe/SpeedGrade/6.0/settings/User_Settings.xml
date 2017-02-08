@@ -1,0 +1,492 @@
+<?xml version="1.0" ?>
+
+<values>
+  <DI>
+    <SaveSessionOnExit>"1"</SaveSessionOnExit>
+  </DI>
+  <AnnotationEditor>
+    <LineWeight>"1"</LineWeight>
+    <TextSize>"0"</TextSize>
+    <EditFrame>"1"</EditFrame>
+    <ActiveTool>"1"</ActiveTool>
+  </AnnotationEditor>
+  <SequenceBrowser2>
+    <BreadCrumb>
+      <History4>""</History4>
+      <History0>"/Users/student/Desktop/"</History0>
+      <History8>""</History8>
+      <ManualTypedHistory6>""</ManualTypedHistory6>
+      <ManualTypedHistory2>""</ManualTypedHistory2>
+      <ManualTypedHistory3>""</ManualTypedHistory3>
+      <ManualTypedHistory7>""</ManualTypedHistory7>
+      <History1>""</History1>
+      <History5>""</History5>
+      <History9>""</History9>
+      <HistorySelectedItem>"/Users/student/Desktop/"</HistorySelectedItem>
+      <History7>""</History7>
+      <History3>""</History3>
+      <ManualTypedHistory9>""</ManualTypedHistory9>
+      <ManualTypedHistory5>""</ManualTypedHistory5>
+      <ManualTypedHistory1>""</ManualTypedHistory1>
+      <ManualTypedHistory8>""</ManualTypedHistory8>
+      <ManualTypedHistory0>""</ManualTypedHistory0>
+      <ManualTypedHistory4>""</ManualTypedHistory4>
+      <History2>""</History2>
+      <History6>""</History6>
+    </BreadCrumb>
+    <CurrentPath>"Desktop"</CurrentPath>
+    <Favorite>
+      <LastUsed>"Current"</LastUsed>
+      <Item8>"EDL Conform|*.EDL"</Item8>
+      <Item4>"Frame Sequences|*.BMP,*.CIN,*.DPX,*.EXR,*.GIF,*.IFF,*.JPG,*.JPEG,*.JP2,*.J2K,*.JPC,*.J2C,*.MPO,*.PCX,*.PIC,*.PGM,*.PNG,*.RGB*,*.RLA,*.RLE,*.RPF,*.SGI,*.TGA,*.TIF*"</Item4>
+      <Item0>"Current|"</Item0>
+      <Item9>"Phantom RAW|*.cine"</Item9>
+      <Item1>"All files|*.*"</Item1>
+      <Item5>"RAW Files|*.ARAW,*.ARI,*.CINE,*.DNG,*.FHG*,*.MIM,*.R3D,*.SIV,*.WCR"</Item5>
+      <Item12>"OpenEXR|*.exr"</Item12>
+      <Item10>"SI2K SIV RAW|*.siv"</Item10>
+      <Item7>"RED R3D|*.R3D"</Item7>
+      <Item3>"Movie Formats|*.IHSS,*.MOV,*.QT,*.AVI,*.MPG,*.MPEG,*.MV1,*.MV2,*.MP2,*.CIN,*.CINE,*.CCI,*.CHD,*.YUV,*.R3D,*.RAW,*.RDC"</Item3>
+      <ItemCount>"13"</ItemCount>
+      <Item2>"Timelines|*.EDL,*.IRCP"</Item2>
+      <Item6>"DPX|*.DPX"</Item6>
+      <Item11>"QuickTime .mov|*.mov"</Item11>
+    </Favorite>
+    <ThumbSizeInThumbsMode>"7"</ThumbSizeInThumbsMode>
+    <DisplayMode>"0"</DisplayMode>
+    <WildCard>"*.*"</WildCard>
+    <ThumbSizeInListMode>"6.99324"</ThumbSizeInListMode>
+    <SequenceMode>"0"</SequenceMode>
+  </SequenceBrowser2>
+  <LTC>
+    <OutputLTC>"0"</OutputLTC>
+    <Multiplier>"1"</Multiplier>
+    <SlaveToLTC>"0"</SlaveToLTC>
+  </LTC>
+  <RenderResult0>
+    <BreadCrumb>
+      <History4>""</History4>
+      <History0>"/Users/student/Desktop/"</History0>
+      <History8>""</History8>
+      <ManualTypedHistory6>""</ManualTypedHistory6>
+      <ManualTypedHistory2>""</ManualTypedHistory2>
+      <ManualTypedHistory3>""</ManualTypedHistory3>
+      <ManualTypedHistory7>""</ManualTypedHistory7>
+      <History1>""</History1>
+      <History5>""</History5>
+      <History9>""</History9>
+      <HistorySelectedItem>"/Users/student/Desktop/"</HistorySelectedItem>
+      <History7>""</History7>
+      <History3>""</History3>
+      <ManualTypedHistory9>""</ManualTypedHistory9>
+      <ManualTypedHistory5>""</ManualTypedHistory5>
+      <ManualTypedHistory1>""</ManualTypedHistory1>
+      <ManualTypedHistory8>""</ManualTypedHistory8>
+      <ManualTypedHistory0>""</ManualTypedHistory0>
+      <ManualTypedHistory4>""</ManualTypedHistory4>
+      <History2>""</History2>
+      <History6>""</History6>
+    </BreadCrumb>
+    <CurrentPath>"Desktop"</CurrentPath>
+    <Favorite>
+      <LastUsed>"Current"</LastUsed>
+      <Item8>"EDL Conform|*.EDL"</Item8>
+      <Item4>"Frame Sequences|*.BMP,*.CIN,*.DPX,*.EXR,*.GIF,*.IFF,*.JPG,*.JPEG,*.JP2,*.J2K,*.JPC,*.J2C,*.MPO,*.PCX,*.PIC,*.PGM,*.PNG,*.RGB*,*.RLA,*.RLE,*.RPF,*.SGI,*.TGA,*.TIF*"</Item4>
+      <Item0>"Current|"</Item0>
+      <Item9>"Phantom RAW|*.cine"</Item9>
+      <Item1>"All files|*.*"</Item1>
+      <Item5>"RAW Files|*.ARAW,*.ARI,*.CINE,*.DNG,*.FHG*,*.MIM,*.R3D,*.SIV,*.WCR"</Item5>
+      <Item12>"OpenEXR|*.exr"</Item12>
+      <Item10>"SI2K SIV RAW|*.siv"</Item10>
+      <Item7>"RED R3D|*.R3D"</Item7>
+      <Item3>"Movie Formats|*.IHSS,*.MOV,*.QT,*.AVI,*.MPG,*.MPEG,*.MV1,*.MV2,*.MP2,*.CIN,*.CINE,*.CCI,*.CHD,*.YUV,*.R3D,*.RAW,*.RDC"</Item3>
+      <ItemCount>"13"</ItemCount>
+      <Item2>"Timelines|*.EDL,*.IRCP"</Item2>
+      <Item6>"DPX|*.DPX"</Item6>
+      <Item11>"QuickTime .mov|*.mov"</Item11>
+    </Favorite>
+    <ThumbSizeInThumbsMode>"7"</ThumbSizeInThumbsMode>
+    <DisplayMode>"0"</DisplayMode>
+    <WildCard>"*.*"</WildCard>
+    <ThumbSizeInListMode>"6.99324"</ThumbSizeInListMode>
+    <SequenceMode>"0"</SequenceMode>
+  </RenderResult0>
+  <TangentDevices>
+    <Panel1>
+      <Status>"Invalid IP address"</Status>
+    </Panel1>
+    <Panel0>
+      <Status>"Invalid IP address"</Status>
+    </Panel0>
+    <StateDisplay>"0"</StateDisplay>
+    <Panel2>
+      <Status>"Invalid IP address"</Status>
+    </Panel2>
+    <StartIP>""</StartIP>
+    <Panel3>
+      <Status>"Invalid IP address"</Status>
+    </Panel3>
+    <Log>"0"</Log>
+    <SubnetMask>"255.255.255.0"</SubnetMask>
+  </TangentDevices>
+  <RGBParade>
+    <Position>"220,20,500,260"</Position>
+    <Width>"180"</Width>
+    <Visible>"0"</Visible>
+    <Detached>"0"</Detached>
+    <AlignLeft>"0"</AlignLeft>
+  </RGBParade>
+  <UserInteraction>
+    <ScrubJog>
+      <Sensitivity>"0.75"</Sensitivity>
+      <FilterSize>"20"</FilterSize>
+    </ScrubJog>
+  </UserInteraction>
+  <RenderResult>
+    <DirectoryTreeWidth>"200"</DirectoryTreeWidth>
+  </RenderResult>
+  <Timeline>
+    <EnableUndo>"1"</EnableUndo>
+    <LockNewTimelines>"0"</LockNewTimelines>
+    <ShowTimeInFrames>"0"</ShowTimeInFrames>
+    <MasterAutoselect>"1"</MasterAutoselect>
+    <DisableCompositingByDefault>"0"</DisableCompositingByDefault>
+    <AnnotationMode>"0"</AnnotationMode>
+    <CropPreviewMode>"0"</CropPreviewMode>
+    <FollowDissolves>"1"</FollowDissolves>
+  </Timeline>
+  <GradingBrowser>
+    <Tab4>
+      <Name>"../Look Examples/Temperature"</Name>
+      <Path>"/Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/Look Examples/Temperature"</Path>
+    </Tab4>
+    <Tab0>
+      <Name>"../settings/looks"</Name>
+      <Path>"/Users/student/Documents/Adobe/SpeedGrade/6.0/settings/looks"</Path>
+    </Tab0>
+    <CurrentTab>"0"</CurrentTab>
+    <Tab1>
+      <Name>"../Look Examples/Cinematic"</Name>
+      <Path>"/Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/Look Examples/Cinematic"</Path>
+    </Tab1>
+    <Tab3>
+      <Name>"../Look Examples/Style"</Name>
+      <Path>"/Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/Look Examples/Style"</Path>
+    </Tab3>
+    <Tabs>"5"</Tabs>
+    <Tab2>
+      <Name>"../Look Examples/Desaturation"</Name>
+      <Path>"/Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/Look Examples/Desaturation"</Path>
+    </Tab2>
+  </GradingBrowser>
+  <Vectorscope>
+    <Position>"500,20,740,260"</Position>
+    <Width>"180"</Width>
+    <Visible>"0"</Visible>
+    <Detached>"0"</Detached>
+    <AlignLeft>"0"</AlignLeft>
+  </Vectorscope>
+  <SelectedDesktop>"0"</SelectedDesktop>
+  <Histogram>
+    <Cumulative>"0"</Cumulative>
+    <Position>"20,20,220,260"</Position>
+    <Width>"180"</Width>
+    <UserMax>"685"</UserMax>
+    <UserMin>"95"</UserMin>
+    <Visible>"0"</Visible>
+    <ValueBits>"10"</ValueBits>
+    <Detached>"0"</Detached>
+    <AlignLeft>"0"</AlignLeft>
+    <UpdateMode>"1"</UpdateMode>
+  </Histogram>
+  <SequenceBrowser1>
+    <BreadCrumb>
+      <History4>""</History4>
+      <History0>"/Users/student/Desktop/"</History0>
+      <History8>""</History8>
+      <ManualTypedHistory6>""</ManualTypedHistory6>
+      <ManualTypedHistory2>""</ManualTypedHistory2>
+      <ManualTypedHistory3>""</ManualTypedHistory3>
+      <ManualTypedHistory7>""</ManualTypedHistory7>
+      <History1>""</History1>
+      <History5>""</History5>
+      <History9>""</History9>
+      <HistorySelectedItem>"/Users/student/Desktop/"</HistorySelectedItem>
+      <History7>""</History7>
+      <History3>""</History3>
+      <ManualTypedHistory9>""</ManualTypedHistory9>
+      <ManualTypedHistory5>""</ManualTypedHistory5>
+      <ManualTypedHistory1>""</ManualTypedHistory1>
+      <ManualTypedHistory8>""</ManualTypedHistory8>
+      <ManualTypedHistory0>""</ManualTypedHistory0>
+      <ManualTypedHistory4>""</ManualTypedHistory4>
+      <History2>""</History2>
+      <History6>""</History6>
+    </BreadCrumb>
+    <CurrentPath>"Desktop"</CurrentPath>
+    <Favorite>
+      <LastUsed>"Current"</LastUsed>
+      <Item8>"EDL Conform|*.EDL"</Item8>
+      <Item4>"Frame Sequences|*.BMP,*.CIN,*.DPX,*.EXR,*.GIF,*.IFF,*.JPG,*.JPEG,*.JP2,*.J2K,*.JPC,*.J2C,*.MPO,*.PCX,*.PIC,*.PGM,*.PNG,*.RGB*,*.RLA,*.RLE,*.RPF,*.SGI,*.TGA,*.TIF*"</Item4>
+      <Item0>"Current|"</Item0>
+      <Item9>"Phantom RAW|*.cine"</Item9>
+      <Item1>"All files|*.*"</Item1>
+      <Item5>"RAW Files|*.ARAW,*.ARI,*.CINE,*.DNG,*.FHG*,*.MIM,*.R3D,*.SIV,*.WCR"</Item5>
+      <Item12>"OpenEXR|*.exr"</Item12>
+      <Item10>"SI2K SIV RAW|*.siv"</Item10>
+      <Item7>"RED R3D|*.R3D"</Item7>
+      <Item3>"Movie Formats|*.IHSS,*.MOV,*.QT,*.AVI,*.MPG,*.MPEG,*.MV1,*.MV2,*.MP2,*.CIN,*.CINE,*.CCI,*.CHD,*.YUV,*.R3D,*.RAW,*.RDC"</Item3>
+      <ItemCount>"13"</ItemCount>
+      <Item2>"Timelines|*.EDL,*.IRCP"</Item2>
+      <Item6>"DPX|*.DPX"</Item6>
+      <Item11>"QuickTime .mov|*.mov"</Item11>
+    </Favorite>
+    <ThumbSizeInThumbsMode>"7"</ThumbSizeInThumbsMode>
+    <DisplayMode>"0"</DisplayMode>
+    <WildCard>"*.*"</WildCard>
+    <ThumbSizeInListMode>"6.99324"</ThumbSizeInListMode>
+    <SequenceMode>"0"</SequenceMode>
+  </SequenceBrowser1>
+  <MaskBrowser>
+    <Tab0>
+      <Name>"../settings/masks"</Name>
+      <Path>"/Users/student/Documents/Adobe/SpeedGrade/6.0/settings/masks"</Path>
+    </Tab0>
+    <CurrentTab>"0"</CurrentTab>
+    <Tabs>"1"</Tabs>
+  </MaskBrowser>
+  <SequenceBrowser0>
+    <BreadCrumb>
+      <History4>""</History4>
+      <History0>"/Users/student/Desktop/"</History0>
+      <History8>""</History8>
+      <ManualTypedHistory6>""</ManualTypedHistory6>
+      <ManualTypedHistory2>""</ManualTypedHistory2>
+      <ManualTypedHistory3>""</ManualTypedHistory3>
+      <ManualTypedHistory7>""</ManualTypedHistory7>
+      <History1>""</History1>
+      <History5>""</History5>
+      <History9>""</History9>
+      <HistorySelectedItem>"/Users/student/Desktop/"</HistorySelectedItem>
+      <History7>""</History7>
+      <History3>""</History3>
+      <ManualTypedHistory9>""</ManualTypedHistory9>
+      <ManualTypedHistory5>""</ManualTypedHistory5>
+      <ManualTypedHistory1>""</ManualTypedHistory1>
+      <ManualTypedHistory8>""</ManualTypedHistory8>
+      <ManualTypedHistory0>""</ManualTypedHistory0>
+      <ManualTypedHistory4>""</ManualTypedHistory4>
+      <History2>""</History2>
+      <History6>""</History6>
+    </BreadCrumb>
+    <CurrentPath>"Desktop"</CurrentPath>
+    <Favorite>
+      <LastUsed>"Current"</LastUsed>
+      <Item8>"EDL Conform|*.EDL"</Item8>
+      <Item4>"Frame Sequences|*.BMP,*.CIN,*.DPX,*.EXR,*.GIF,*.IFF,*.JPG,*.JPEG,*.JP2,*.J2K,*.JPC,*.J2C,*.MPO,*.PCX,*.PIC,*.PGM,*.PNG,*.RGB*,*.RLA,*.RLE,*.RPF,*.SGI,*.TGA,*.TIF*"</Item4>
+      <Item0>"Current|"</Item0>
+      <Item9>"Phantom RAW|*.cine"</Item9>
+      <Item1>"All files|*.*"</Item1>
+      <Item5>"RAW Files|*.ARAW,*.ARI,*.CINE,*.DNG,*.FHG*,*.MIM,*.R3D,*.SIV,*.WCR"</Item5>
+      <Item12>"OpenEXR|*.exr"</Item12>
+      <Item10>"SI2K SIV RAW|*.siv"</Item10>
+      <Item7>"RED R3D|*.R3D"</Item7>
+      <Item3>"Movie Formats|*.IHSS,*.MOV,*.QT,*.AVI,*.MPG,*.MPEG,*.MV1,*.MV2,*.MP2,*.CIN,*.CINE,*.CCI,*.CHD,*.YUV,*.R3D,*.RAW,*.RDC"</Item3>
+      <ItemCount>"13"</ItemCount>
+      <Item2>"Timelines|*.EDL,*.IRCP"</Item2>
+      <Item6>"DPX|*.DPX"</Item6>
+      <Item11>"QuickTime .mov|*.mov"</Item11>
+    </Favorite>
+    <ThumbSizeInThumbsMode>"7"</ThumbSizeInThumbsMode>
+    <DisplayMode>"0"</DisplayMode>
+    <WildCard>"*.*"</WildCard>
+    <ThumbSizeInListMode>"6.99324"</ThumbSizeInListMode>
+    <SequenceMode>"0"</SequenceMode>
+  </SequenceBrowser0>
+  <System>
+    <Cache>
+      <RAMPercentage>"50"</RAMPercentage>
+      <HideMissingAndBrokenFrames>"0"</HideMissingAndBrokenFrames>
+    </Cache>
+    <Loader>
+      <ReadAhead>"40"</ReadAhead>
+      <ReadBehind>"10"</ReadBehind>
+    </Loader>
+    <CPU>
+      <EnableAVX>"1"</EnableAVX>
+    </CPU>
+    <Sound>
+      <Device>"0"</Device>
+      <BitsPerSample>"16"</BitsPerSample>
+      <Driver>"1"</Driver>
+      <MixingFrequency>"44100"</MixingFrequency>
+      <StartupLatency>"0.05"</StartupLatency>
+      <MaxSyncDeviation>"0.05"</MaxSyncDeviation>
+    </Sound>
+  </System>
+  <Playback>
+    <LoopMode>"0"</LoopMode>
+    <FrameStep>"1"</FrameStep>
+    <MirrorAuto>"0"</MirrorAuto>
+    <MaxFrameDrop>"0"</MaxFrameDrop>
+    <BaseFps>"24"</BaseFps>
+  </Playback>
+  <HUD>
+    <Value>""</Value>
+    <Title>""</Title>
+    <Size>
+      <ValueSize>"30"</ValueSize>
+      <TitleSize>"14"</TitleSize>
+    </Size>
+  </HUD>
+  <MetaDataDisplay>
+    <Docked>"0"</Docked>
+    <Favorite>
+      <LastUsed>"Current"</LastUsed>
+      <Item0>"Current|"</Item0>
+      <ItemCount>"1"</ItemCount>
+    </Favorite>
+    <Visible>"0"</Visible>
+    <DockedHeight>"100"</DockedHeight>
+    <UndockedSize>"0,0,600,107"</UndockedSize>
+  </MetaDataDisplay>
+  <Application>
+    <StereoAutoAlign>
+      <Rotation>"1"</Rotation>
+      <VOffset>"1"</VOffset>
+      <MatchColors>"1"</MatchColors>
+      <PreserveParallax>"1"</PreserveParallax>
+      <Scale>"1"</Scale>
+    </StereoAutoAlign>
+    <MainWindow>
+      <WindowState>"2"</WindowState>
+      <Position>"0,23,2559,1359"</Position>
+      <Fullscreen>
+        <WindowWidth>"800"</WindowWidth>
+        <Hz>"0"</Hz>
+        <WindowTop>"0"</WindowTop>
+        <Mode>"0"</Mode>
+        <Width>"2560"</Width>
+        <WindowLeft>"0"</WindowLeft>
+        <Bpp>"32"</Bpp>
+        <WindowHeight>"600"</WindowHeight>
+        <Height>"1440"</Height>
+      </Fullscreen>
+    </MainWindow>
+    <OpenGLBlitter>
+      <HiDPIMode>"0"</HiDPIMode>
+      <SourceResoultionRendering>"0"</SourceResoultionRendering>
+      <DeBayerAlgorithm>"3"</DeBayerAlgorithm>
+      <UsePixelBufferObject>"1"</UsePixelBufferObject>
+      <Enable30BitOutput>"0"</Enable30BitOutput>
+      <PartialWindowUpdates>"1"</PartialWindowUpdates>
+      <Filtering>"1"</Filtering>
+      <Stereo>"0"</Stereo>
+    </OpenGLBlitter>
+    <SelectedOptionsPage>"0"</SelectedOptionsPage>
+    <AutoHideMouse>
+      <Interval>"5"</Interval>
+      <Enable>"0"</Enable>
+    </AutoHideMouse>
+    <WindowPositions>
+      <ErrorWindow>
+        <Position>"1005,357,1555,957"</Position>
+        <Locked>"0"</Locked>
+      </ErrorWindow>
+      <HistoryWindow>
+        <Position>"0,0,300,200"</Position>
+        <Locked>"0"</Locked>
+      </HistoryWindow>
+      <ContextUIHeight>"430"</ContextUIHeight>
+      <OptionsDialog>
+        <Position>"0,22,2560,754"</Position>
+        <Locked>"0"</Locked>
+      </OptionsDialog>
+      <RenderNodeDialog>
+        <Position>"0,22,2560,754"</Position>
+        <Locked>"0"</Locked>
+      </RenderNodeDialog>
+    </WindowPositions>
+    <ShowLogoWhenEmpty>"1"</ShowLogoWhenEmpty>
+    <Tooltips>
+      <TimeOut>"5000"</TimeOut>
+      <Delay>"1000"</Delay>
+      <Enable>"1"</Enable>
+    </Tooltips>
+    <BusySleep>"-1"</BusySleep>
+  </Application>
+  <RemotingInterface>
+    <ListeningMode>"1"</ListeningMode>
+    <Port>"8800"</Port>
+  </RemotingInterface>
+  <SequenceBrowser>
+    <DirectoryTreeWidth>"200"</DirectoryTreeWidth>
+  </SequenceBrowser>
+  <RenderNodeDialog>
+    <BreadCrumb>
+      <History4>""</History4>
+      <History0>"/Users/student/Desktop/"</History0>
+      <History8>""</History8>
+      <ManualTypedHistory6>""</ManualTypedHistory6>
+      <ManualTypedHistory2>""</ManualTypedHistory2>
+      <ManualTypedHistory3>""</ManualTypedHistory3>
+      <ManualTypedHistory7>""</ManualTypedHistory7>
+      <History1>""</History1>
+      <History5>""</History5>
+      <History9>""</History9>
+      <HistorySelectedItem>"/Users/student/Desktop/"</HistorySelectedItem>
+      <History7>""</History7>
+      <History3>""</History3>
+      <ManualTypedHistory9>""</ManualTypedHistory9>
+      <ManualTypedHistory5>""</ManualTypedHistory5>
+      <ManualTypedHistory1>""</ManualTypedHistory1>
+      <ManualTypedHistory8>""</ManualTypedHistory8>
+      <ManualTypedHistory0>""</ManualTypedHistory0>
+      <ManualTypedHistory4>""</ManualTypedHistory4>
+      <History2>""</History2>
+      <History6>""</History6>
+    </BreadCrumb>
+    <RenderNotes>"0"</RenderNotes>
+    <PixelAspect>"0"</PixelAspect>
+    <FitMode>"1"</FitMode>
+    <OutputALE>"0"</OutputALE>
+    <CalibrationLUT>"0"</CalibrationLUT>
+    <Draft>"0"</Draft>
+    <Offset>"0"</Offset>
+    <BurnIn>"1"</BurnIn>
+    <OutputFormat>""</OutputFormat>
+    <Calibrate>"0"</Calibrate>
+    <BurnInFrames>"0"</BurnInFrames>
+    <OutputRes>"0"</OutputRes>
+    <Proxy>"0"</Proxy>
+    <OutputFileName>
+      <History4>""</History4>
+      <History0>""</History0>
+      <History8>""</History8>
+      <History1>""</History1>
+      <History5>""</History5>
+      <History9>""</History9>
+      <History7>""</History7>
+      <History3>""</History3>
+      <History2>""</History2>
+      <History6>""</History6>
+    </OutputFileName>
+    <StereoMode>"0"</StereoMode>
+    <SwapEyes>"0"</SwapEyes>
+    <TimeCodeSource>"0"</TimeCodeSource>
+  </RenderNodeDialog>
+  <Framing>
+    <Crop>"0"</Crop>
+    <AspectRatioOn>"0"</AspectRatioOn>
+    <BurnInOn>"0"</BurnInOn>
+    <CropOn>"0"</CropOn>
+    <OverlayOn>"0"</OverlayOn>
+    <AspectRatio>"0"</AspectRatio>
+  </Framing>
+  <Desktops>"3"</Desktops>
+  <ColorTransforms>
+    <YUV>
+      <Coefficients>"0"</Coefficients>
+    </YUV>
+  </ColorTransforms>
+</values>

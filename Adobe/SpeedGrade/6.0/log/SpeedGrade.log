@@ -1,0 +1,57 @@
+2015-05-06 [ Build 6.0.4x18 / 2012-09-11 ]
+Machine:   27-mmp-mac.bmcc.cuny.edu in domain 
+User:      student
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz
+           Model: 60, Family: 6, Stepping: 3 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AES AVX AVX2 FMA F16C POPCNT RDTSCP RDRAND
+Base path: /Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/bin/
+Arguments: "/Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/bin/sgmacosx"
+
+20:51:09 [IrLog]           LogFile initialized
+20:51:09 [GlobalSettings]  Loading user settings from /Users/student/Documents/Adobe/SpeedGrade/6.0/settings/User_Settings.xml
+20:51:09 [GlobalSettings]  Failed to load user settings, using default values.
+20:51:09 [DISystem]        Initializing DI System Application Object...
+20:51:09 [DISystem]        Adobe SpeedGrade CS6
+20:51:09 [AMTModule]       Initializing
+20:51:09 [AMTModule]       Starting background task
+20:51:09 [AMTModule]       Background task running
+20:51:09 [VideoModes]      Total video modes returned by OS: 12
+20:51:09 [VideoModes]      Current mode: 0 (2560 x 1440, 32 bpp, 0 Hz)
+20:51:09 [IrOS]            Resources loaded from /Applications/Adobe SpeedGrade CS6/Adobe SpeedGrade CS6.app/Contents/MacOS/resources/Resources.irf
+20:51:09 [IrOS]            Possible locales: 28 licensed, 5 effective 
+20:51:09 [IrOS]            Localized string table en_US loaded successfully
+20:51:09 [OpenGL]          Initializing OpenGL...
+20:51:09 [OpenGL]          Vendor: NVIDIA Corporation
+20:51:09 [OpenGL]          Renderer: NVIDIA GeForce GTX 775M OpenGL Engine
+20:51:09 [OpenGL]          Version: 2.1 NVIDIA-10.2.7 310.41.25f01
+20:51:09 [SoundSubsystem]  Successfully initialized sound subsystem.
+20:51:09 [SoundSubsystem]  2 Sound driver(s) available:
+20:51:09 [SoundSubsystem]    Driver "No sound" has 1 device(s):
+20:51:09 [SoundSubsystem]      Driver 0 - Device 0: "(null)"
+20:51:09 [SoundSubsystem]    Driver "Core Audio" has 1 device(s):
+20:51:09 [SoundSubsystem]      Driver 1 - Device 0: "Built-in Output"
+20:51:09 [SoundSubsystem]  Using sound driver 'Core Audio' - device:
+20:51:09 [SoundSubsystem]  	Built-in Output (stereo)
+20:51:09 [PlaybackEngine]  Cache Setup (RAM)
+20:51:09 [PlaybackEngine]    Physical  16384MB
+20:51:09 [PlaybackEngine]    Available 16384MB
+20:51:09 [PlaybackEngine]    Useable   16384MB
+20:51:09 [PlaybackEngine]    Cache:    8192MB
+20:51:09 [Headlights]      Initializing APIP...
+20:51:09 [Headlights]      APIP inactive and in activated mode
+20:51:12 [IrOS]            Cleaning up and exiting sanely....
+20:51:12 [AMTModule]       Shutting down
+20:51:12 [OGLExtensions]   OpenGL extensions queried (in no particular order):
+20:51:12 [OGLExtensions]     GL_NV_texture_rectangle: unsupported
+20:51:12 [OGLExtensions]     GL_EXT_pixel_buffer_object: unsupported
+20:51:12 [OGLExtensions]     GL_ARB_pixel_buffer_object: supported
+20:51:12 [OGLExtensions]     GL_ARB_fragment_program: supported
+20:51:12 [OGLExtensions]     GL_EXT_texture_rectangle: supported
+20:51:12 [GlobalSettings]  Last object UID: 0x000003F0
+20:51:12 [IrLog]           Closing log file
+
+05/06/15

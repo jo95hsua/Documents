@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+
+<IRIDASComposition>
+
+  <general>
+    <version>"5"</version>
+    <basefps>"24"</basefps>
+    <dropframe>"0"</dropframe>
+    <masterplayhead>"0"</masterplayhead>
+    <mastertime>"0"</mastertime>
+    <currentview>"0"</currentview>
+    <playheadviewzoom>"1"</playheadviewzoom>
+    <screenlayout>
+      <auto>"1"</auto>
+      <hcells>"1"</hcells>
+      <vcells>"1"</vcells>
+      <vertical>"0"</vertical>
+      <split>"0"</split>
+      <matchchannels>"0"</matchchannels>
+      <dynamiczoom>"0"</dynamiczoom>
+      <playheads>"1"</playheads>
+    </screenlayout>
+    <screenlayout>
+      <auto>"1"</auto>
+      <hcells>"1"</hcells>
+      <vcells>"1"</vcells>
+      <vertical>"0"</vertical>
+      <split>"0"</split>
+      <matchchannels>"0"</matchchannels>
+      <dynamiczoom>"0"</dynamiczoom>
+      <playheads>"0"</playheads>
+    </screenlayout>
+  </general>
+
+  <assets>
+  </assets>
+
+  <timeline>
+    <title>"Untitled"</title>
+    <comment>""</comment>
+    <projectpath>"/Users/student/Desktop"</projectpath>
+    <enableversions>"0"</enableversions>
+    <task>""</task>
+    <version>""</version>
+    <versionmode>""</versionmode>
+    <locked>"0"</locked>
+    <stereo>"0"</stereo>
+    <compositing>"1"</compositing>
+    <grading>"1"</grading>
+    <defaulttimebase>"2"</defaulttimebase>
+    <alternatetimebase>"1"</alternatetimebase>
+    <thumbnails>"0"</thumbnails>
+    <calibration>""</calibration>
+    <playhead>
+      <playing>"1"</playing>
+      <offset>"0"</offset>
+    </playhead>
+  </timeline>
+</IRIDASComposition>
+
